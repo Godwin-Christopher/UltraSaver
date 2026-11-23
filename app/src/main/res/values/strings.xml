@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ultra Saver</string>
+    <string name="shizuku_not_connected">Shizuku Not Connected</string>
+    <string name="shizuku_prompt_guide">Shizuku is required to freeze background apps and lock 60Hz. Start Shizuku via Wireless Debugging.</string>
+    <string name="enter_ultra_mode">ENGAGE ULTRA SAVER</string>
+    <string name="exit_ultra_mode">EXIT ULTRA SAVER</string>
+    <string name="remaining_estimate">Estimated Survival Time</string>
+    <string name="apps_frozen_format">%1$d apps frozen in background</string>
+    <string name="widget_description">One-tap Ultra Battery Saver toggle and battery survival gauge</string>
+</resources>
