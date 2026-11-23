@@ -12,6 +12,10 @@ When standard battery saver is not enough, Ultra Saver locks down the device to 
 - **Home Screen Widget**: A minimalist Nothing-themed widget with battery telemetry and a direct toggle button.
 - **Whitelist Protection**: Keep essential apps (Phone, SMS, Maps, etc.) alive while freezing non-essentials.
 
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 8 15 27 PM" src="https://github.com/user-attachments/assets/ef8d12f4-c604-43fd-ae7c-2fa451fcf387" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 8 15 26 PM" src="https://github.com/user-attachments/assets/56bf0b0e-fc6e-4122-b04f-f7734e3bafd9" />
+
+
 ---
 
 ## Setup Guide
